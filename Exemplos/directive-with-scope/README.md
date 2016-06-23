@@ -1,4 +1,3 @@
-### Executando o exemplo
-Siga o seguinte passo para executar corretamente o exemplo:
+### Passos para executar o exemplo
 
 _Ainda será documentado_
