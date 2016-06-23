@@ -13,5 +13,5 @@ Os exemplos que tem essa necessidade possuem outros _README.md_ em suas respecti
 
 ## Contatos
 Lucas Simões Tenório ([luk.fcb@gmail.com](mailto:luk.fcb@gmail.com))
-
+Analista de desenvolvimento
 *Quaisquer dúvias e/ou comentários podem ser enviados para o e-mail acima e serão respondidos assim que possível.*
